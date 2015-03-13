@@ -1,5 +1,5 @@
-# SOURCE FOR "FPGAs?! Now What?" TEXT
-These are the source files for the text "FPGAs?! Now What?", a book
+# FPGAs?! Now What?
+Here you can find the source files for the text "FPGAs?! Now What?", a book
 about FPGA design using Xilinx ISE WebPACK and the XuLA FPGA board.
 
 ## SOURCE FILE ORGANIZATION
