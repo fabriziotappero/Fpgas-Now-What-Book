@@ -1,8 +1,8 @@
-SOURCE FOR "FPGAs?! Now What?" TEXT.
+# SOURCE FOR "FPGAs?! Now What?" TEXT
     These are the source files for the text "FPGAs?! Now What?", a book
     about FPGA design using Xilinx ISE WebPACK and the XuLA FPGA board.
 
-SOURCE FILE ORGANIZATION
+## SOURCE FILE ORGANIZATION
     The source files for the book are organized as follows:
 
         FpgasNowWhat:                        // Top-level directory
@@ -26,24 +26,24 @@ SOURCE FILE ORGANIZATION
                     ...
                 ...                          // Additional chapters.
 
-TOOLS
+## TOOLS
     All the text is in .odt files written using LibreOffice/OpenOffice
     Writer. All the figures are .svg files created with Inkscape. All the
     images are .png files captured with various tools. All the videos are
     .mp4 files.
 
-AUTHOR
+## AUTHOR
     Dave Vanden Bout, X Engineering Software Systems Corp, devb@xess.com.
 
-COPYRIGHT AND LICENSES
+## COPYRIGHT AND LICENSES
     Copyright 2011 - X Engineering Software Systems Corp. (www.xess.com)
 
-  Book License
+###  Book License
     All text, graphics and video for this book are licensed under a Creative
     Commons Attribution-ShareAlike 3.0 Unported License
     (http://creativecommons.org/licenses/by-sa/3.0/).
 
-  Software License
+###  Software License
     All FPGA project files, scripts and program code are licensed under a
     GPL license as follows:
 
